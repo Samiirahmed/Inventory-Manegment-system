@@ -1,0 +1,29 @@
+C:\Users\HP\Desktop\Sim 5\C# Lessons\loginpage\loginpage\loginpage\bin\Debug\loginpage.exe.config
+C:\Users\HP\Desktop\Sim 5\C# Lessons\loginpage\loginpage\loginpage\bin\Debug\loginpage.exe
+C:\Users\HP\Desktop\Sim 5\C# Lessons\loginpage\loginpage\loginpage\bin\Debug\loginpage.pdb
+C:\Users\HP\Desktop\Sim 5\C# Lessons\loginpage\loginpage\loginpage\obj\Debug\loginpage.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Sim 5\C# Lessons\loginpage\loginpage\loginpage\obj\Debug\loginpage.Form1.resources
+C:\Users\HP\Desktop\Sim 5\C# Lessons\loginpage\loginpage\loginpage\obj\Debug\loginpage.Properties.Resources.resources
+C:\Users\HP\Desktop\Sim 5\C# Lessons\loginpage\loginpage\loginpage\obj\Debug\loginpage.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Sim 5\C# Lessons\loginpage\loginpage\loginpage\obj\Debug\loginpage.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Sim 5\C# Lessons\loginpage\loginpage\loginpage\obj\Debug\loginpage.exe
+C:\Users\HP\Desktop\Sim 5\C# Lessons\loginpage\loginpage\loginpage\obj\Debug\loginpage.pdb
+C:\Users\HP\Desktop\Sim 5\C# Lessons\loginpage\loginpage\loginpage\obj\Debug\loginpage.Form2.resources
+C:\Users\HP\Desktop\Sim 5\C# Lessons\loginpage\loginpage\loginpage\obj\Debug\loginpage.Form3.resources
+C:\Users\HP\Desktop\Sim 5\C# Lessons\loginpage\loginpage\loginpage\obj\Debug\loginpage.Form4.resources
+C:\Users\HP\Desktop\Sim 5\C# Lessons\loginpage\loginpage\loginpage\obj\Debug\loginpage.Customer.resources
+C:\Users\HP\Desktop\Sim 5\C# Lessons\loginpage\loginpage\loginpage\obj\Debug\loginpage.products.resources
+D:\loginpage\loginpage\loginpage\bin\Debug\loginpage.exe.config
+D:\loginpage\loginpage\loginpage\bin\Debug\loginpage.exe
+D:\loginpage\loginpage\loginpage\bin\Debug\loginpage.pdb
+D:\loginpage\loginpage\loginpage\obj\Debug\loginpage.csproj.AssemblyReference.cache
+D:\loginpage\loginpage\loginpage\obj\Debug\loginpage.Customer.resources
+D:\loginpage\loginpage\loginpage\obj\Debug\loginpage.Form1.resources
+D:\loginpage\loginpage\loginpage\obj\Debug\loginpage.Form2.resources
+D:\loginpage\loginpage\loginpage\obj\Debug\loginpage.Form3.resources
+D:\loginpage\loginpage\loginpage\obj\Debug\loginpage.Form4.resources
+D:\loginpage\loginpage\loginpage\obj\Debug\loginpage.Properties.Resources.resources
+D:\loginpage\loginpage\loginpage\obj\Debug\loginpage.csproj.GenerateResource.cache
+D:\loginpage\loginpage\loginpage\obj\Debug\loginpage.csproj.CoreCompileInputs.cache
+D:\loginpage\loginpage\loginpage\obj\Debug\loginpage.exe
+D:\loginpage\loginpage\loginpage\obj\Debug\loginpage.pdb
